@@ -1,0 +1,19 @@
+{
+  "name": "marketech-app",
+  "version": "1.0.0",
+  "description": "Marketplace of technology",
+  "main": "server.js",
+  "scripts": {
+    "test": "run server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevelopSuperTeam/Marketech-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevelopSuperTeam/Marketech-App/issues"
+  },
+  "homepage": "https://github.com/DevelopSuperTeam/Marketech-App#readme"
+}
